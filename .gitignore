@@ -1,0 +1,32 @@
+# Excel data files (sensitive / generated)
+*.xlsx
+*.xls
+
+# PDF price lists (large binaries, not source code)
+Listados de Precios/
+
+# Reports (generated output)
+Informe_Cambios_*.md
+
+# LibreOffice / Office lock files
+.~lock.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Sensitive docs
+Users.docx
